@@ -1,0 +1,10 @@
+import streamlit as st
+st.title("Hello streamlit, its me")
+st.header("about me")
+st.write("My first streamlit app")
+st.subheader("this is a subheader")
+st.write("i am a data scientist")
+st.text("this is a plane text tag")
+st.markdown("## this is a markdown tag")
+st.button("click me")
+st.text_input("enter your lovely name; ")
